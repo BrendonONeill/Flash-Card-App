@@ -1,18 +1,18 @@
-FlashCard-React-Crud-App
+# FlashCard-React-Crud-App
 This will be a flash card app with a crud system where user can create decks and cards to study a subject. I normally use anki for my japanese study but I wanted to develope my own that I can have more control over how I want to study my cards.
 
-Planned tech to use
+## Planned tech to use
 React Firebase Css or UI package
 
-Ideas
+## Ideas
 card flip with added images and sound To create multiple field on a card if it's needed to explained the cards meaning
 
 example* Japanese can be spelt different ways depending on your kanji used you may need multiple filed to explain each reading.
 
-Functions
+## Functions
 Log in Log out Create card Read card Update card Delete card Sort shuffle filter shuffle Stats on cards
 
-Pages Layout Ideas
+### Pages Layout Ideas
 ///page 1
 
 navbar with logo and login
